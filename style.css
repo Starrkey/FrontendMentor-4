@@ -38,7 +38,7 @@ body {
     width: 80%;
     max-width: 375px;
     min-width: 375px;
-    height: 40%;
+    height: auto;
     background: hsl(213, 19%, 18%);
     padding: 20px;
     color: hsl(0, 0%, 100%);
@@ -53,7 +53,7 @@ body {
     width: 80%;
     max-width: 375px;
     min-width: 375px;
-    height: 40%;
+    height: auto;
     background: hsl(213, 19%, 18%);
     padding: 20px;
     color: hsl(0, 0%, 100%);
